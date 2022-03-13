@@ -1,5 +1,7 @@
+lcapy
 matplotlib
 numpy
 pandas
 scipy
 sympy
+ipykernel
